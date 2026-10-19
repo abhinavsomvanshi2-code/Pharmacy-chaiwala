@@ -1,0 +1,6 @@
+{
+  "name": "Pharmacy Chaiwale",
+  "description": "Vibrant herbal chai apothecary dispensing symptom-tailored Ayurvedic brews, custom herbal boosters, and rapid table or takeaway pickup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
